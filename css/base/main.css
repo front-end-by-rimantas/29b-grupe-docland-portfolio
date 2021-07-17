@@ -48,20 +48,26 @@ header {
     border: 2px solid black;
 }
 
-.logos-block {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    border: 2px solid black;
-}
-
 .icons {
     display: flex;
     justify-content: center;
     border: 2px solid black;
 }
 
-.client-logos {}
+.logos-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.client-logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.client-logos>div {
+    padding: 0 40px;
+}
 
 .image {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/banner_home4.png);
@@ -69,11 +75,6 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
-}
-
-.logos-block {
-    display: flex;
-    flex-direction: row;
 }
 
 .pricing-container {}
