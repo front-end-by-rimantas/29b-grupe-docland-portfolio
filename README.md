@@ -3,23 +3,23 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Daniels portfolio
+# Xisaas website
 
 _29b group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/29b-grupe-portfolio/
+Site published at: https://github.com/front-end-by-rimantas/29b-grupe-docland-portfolio/
 
-Design: http://www.innovationplans.com/idesign/daniels/particles.html
+Design: https://maantheme.com/xisaas/version-1/index-4.html
 
 ## Project features
 
 - Github pages
 - multi-page
 - content rendering with JS
-- carousel
-- gallery
+- collapsible content
+- contact form
 - fontawesome icons
 - CSS animations
 - CSS import
@@ -28,3 +28,9 @@ Design: http://www.innovationplans.com/idesign/daniels/particles.html
 ## Authors
 
 Rimantas: [Github](https://github.com/belauzas)
+Sandra: [Github](https://github.com/Sandrita41)
+Agnietė: [Github](https://github.com/AgnieteMarazaite)
+Gytis: [Github](https://github.com/GytisKupinas)
+Jaroslav: [Github] (https://github.com/jaroslavstanull)
+Mindaugas: [Github] (https://github.com/Mindaugas50)
+
