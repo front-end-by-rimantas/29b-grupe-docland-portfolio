@@ -16,21 +16,22 @@ header {
 .header-container {
     display: flex;
     flex-direction: row;
-    height: 50px;
-    max-height: 50px;
-    min-height: 50px;
+    justify-content: center;
+    position: fixed;
+    padding: 20px 0;
 }
 
-.logo {}
+.logo {
+    padding-right: 50px;
+}
 
 .main-nav {}
 
 .main-nav>a {
     padding: 5px 15px;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 20px;
     text-decoration: none;
-    text-transform: uppercase;
     font-weight: bold;
     color: #4f4f4f;
     cursor: pointer;
