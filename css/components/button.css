@@ -4,18 +4,32 @@
     font-size: 15px;
     font-weight: 800;
     border-radius: 20px;
-    background-color: transparent;
-    border: 1px solid #EE008A;
     cursor: pointer;
 }
 
 .download-btn {
+    background-color: transparent;
+    border: 1px solid #EE008A;
     background: linear-gradient(to right, #EE008A 50%, transparent 50%);
     background-size: 200% 100%;
     background-position: right bottom;
     transition: all .1s ease-out;
 }
 
-.download-btn:hover {
+.getStarted {
+    background-color: #7db1c5;
+    background: linear-gradient(to right, black 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+}
+
+.getStarted-2 {}
+
+.submit {}
+
+.notify {}
+
+.btn:hover {
     background-position: left bottom;
 }
