@@ -5,6 +5,7 @@
     font-weight: 800;
     border-radius: 20px;
     cursor: pointer;
+    color: white;
 }
 
 .download-btn {
@@ -18,23 +19,38 @@
 
 .getStarted {
     background-color: #7db1c5;
-    background: linear-gradient(to right, black 50%, transparent 50%);
+    background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
     background-size: 200% 100%;
     background-position: right bottom;
     transition: all .1s ease-out;
+    border: none;
 }
 
-.getStarted-2 {}
+.getStarted-2 {
+    background-color: #EBF7FC;
+    background: linear-gradient(to right, #7B4CE4 50%, #EDF9FE 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+    border: none;
+    color: #52C9F8;
+}
 
 .submit {
     padding: 15px 60px;
     background-color: #7db1c5;
-    background: linear-gradient(to right, black 50%, transparent 50%);
+    background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
     background-size: 200% 100%;
     background-position: right bottom;
     transition: all .1s ease-out;
+    border: none;
 }
 
 .btn:hover {
     background-position: left bottom;
+}
+
+.getStarted-2:hover {
+    background-position: left bottom;
+    color: white;
 }
