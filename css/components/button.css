@@ -26,9 +26,14 @@
 
 .getStarted-2 {}
 
-.submit {}
-
-.notify {}
+.submit {
+    padding: 15px 60px;
+    background-color: #7db1c5;
+    background: linear-gradient(to right, black 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+}
 
 .btn:hover {
     background-position: left bottom;
