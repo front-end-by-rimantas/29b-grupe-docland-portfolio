@@ -1,0 +1,57 @@
+.btn {
+    line-height: 15px;
+    padding: 15px 50px;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.download-btn {
+    color: black;
+    background-color: transparent;
+    border: 1px solid #EE008A;
+    background: linear-gradient(to right, #EE008A 50%, transparent 50%);
+    background-size: 200%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+}
+
+.getStarted {
+    background-color: #7db1c5;
+    background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
+    background-size: 200%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+    border: none;
+}
+
+.getStarted-2 {
+    background-color: #EBF7FC;
+    background: linear-gradient(to right, #7B4CE4 50%, #EDF9FE 50%);
+    background-size: 200%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+    border: none;
+    color: #52C9F8;
+}
+
+.submit {
+    padding: 15px 60px;
+    background-color: #7db1c5;
+    background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
+    background-size: 200%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+    border: none;
+}
+
+.btn:hover {
+    background-position: left bottom;
+}
+
+.getStarted-2:hover {
+    background-position: left bottom;
+    color: white;
+}
