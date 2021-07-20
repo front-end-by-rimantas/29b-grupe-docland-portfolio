@@ -9,10 +9,11 @@
 }
 
 .download-btn {
+    color: black;
     background-color: transparent;
     border: 1px solid #EE008A;
     background: linear-gradient(to right, #EE008A 50%, transparent 50%);
-    background-size: 200% 100%;
+    background-size: 200%;
     background-position: right bottom;
     transition: all .1s ease-out;
 }
@@ -20,7 +21,7 @@
 .getStarted {
     background-color: #7db1c5;
     background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
-    background-size: 200% 100%;
+    background-size: 200%;
     background-position: right bottom;
     transition: all .1s ease-out;
     border: none;
@@ -29,7 +30,7 @@
 .getStarted-2 {
     background-color: #EBF7FC;
     background: linear-gradient(to right, #7B4CE4 50%, #EDF9FE 50%);
-    background-size: 200% 100%;
+    background-size: 200%;
     background-position: right bottom;
     transition: all .1s ease-out;
     border: none;
@@ -40,7 +41,7 @@
     padding: 15px 60px;
     background-color: #7db1c5;
     background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
-    background-size: 200% 100%;
+    background-size: 200%;
     background-position: right bottom;
     transition: all .1s ease-out;
     border: none;
