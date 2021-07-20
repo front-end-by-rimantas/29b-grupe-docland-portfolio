@@ -1,18 +1,21 @@
 .btn {
     line-height: 15px;
-    padding: 15px 40px;
+    padding: 15px 50px;
     font-size: 15px;
     font-weight: 800;
     border-radius: 20px;
     background-color: transparent;
-    border: 1px solid black;
+    border: 1px solid #EE008A;
     cursor: pointer;
-    background: linear-gradient(to right, #EE008A 50%, white 50%);
-    background-size: 200% 100%;
-    background-position: right bottom;
-    transition: all .5s ease-out;
 }
 
-.btn-purple:hover {
+.download-btn {
+    background: linear-gradient(to right, #EE008A 50%, transparent 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .1s ease-out;
+}
+
+.download-btn:hover {
     background-position: left bottom;
 }
