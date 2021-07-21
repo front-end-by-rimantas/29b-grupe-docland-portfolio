@@ -12,3 +12,9 @@
 @import './components/button.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
+
+.background {
+    background-image: url(../images/banner_home4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
