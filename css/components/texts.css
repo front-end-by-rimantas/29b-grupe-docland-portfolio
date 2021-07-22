@@ -25,6 +25,11 @@ p {
     margin-bottom: 50px;
 }
 
+.p_white {
+    color: white;
+    margin-bottom: 15px;
+}
+
 .center_text {
     text-align: center;
 }
