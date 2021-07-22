@@ -20,6 +20,13 @@
     padding: 0;
 }
 
+#header {
+    padding: 0;
+}
+
+
+/*NAVIGATION*/
+
 .main-nav>a {
     padding: 5px 15px;
     font-size: 16px;
@@ -36,4 +43,11 @@
 
 .main-nav a:hover {
     color: #e83e8c;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f2f6f9;
 }
