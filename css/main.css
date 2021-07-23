@@ -9,6 +9,7 @@
 
 /* components */
 
+@import './components/forms.css';
 @import './components/button.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
