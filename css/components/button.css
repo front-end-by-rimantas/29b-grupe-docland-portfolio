@@ -6,17 +6,23 @@
     border-radius: 20px;
     cursor: pointer;
     color: white;
+    border: none;
 }
 
 .download-btn {
-    color: black;
     background-color: transparent;
-    border: 1px solid #EE008A;
+    border: 1px solid white;
     background: linear-gradient(to right, #EE008A 50%, transparent 50%);
     background-size: 200%;
     background-position: right bottom;
     transition: all .1s ease-out;
 }
+
+
+/*#buttonScroll {
+    border: 1px solid #EE008A;
+    color: black;
+}*/
 
 .getStarted {
     background-color: #7db1c5;

@@ -12,3 +12,42 @@
 @import './components/button.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
+
+.background {
+    background-image: url(../images/banner_home4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0;
+}
+
+#header {
+    padding: 0;
+}
+
+
+/*NAVIGATION*/
+
+.main-nav>a {
+    padding: 5px 15px;
+    font-size: 16px;
+    line-height: 26px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #4f4f4f;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    ;
+}
+
+.main-nav a:hover {
+    color: #e83e8c;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f2f6f9;
+}
