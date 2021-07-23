@@ -2,7 +2,7 @@
 
 @import './base/reset.css';
 @import './base/variables.css';
-@import "./base/layouts.css";
+@import './base/layouts.css';
 
 /* 3rd-party */
 
@@ -10,6 +10,9 @@
 /* components */
 
 @import './components/button.css';
+@import './components/texts.css'
+/* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
+=======
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
