@@ -18,6 +18,12 @@
     transition: all .1s ease-out;
 }
 
+
+/*#buttonScroll {
+    border: 1px solid #EE008A;
+    color: black;
+}*/
+
 .getStarted {
     background-color: #7db1c5;
     background: linear-gradient(to right, #7B4CE4 50%, #7CAFC3 50%);
