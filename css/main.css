@@ -53,4 +53,22 @@
     background-color: #f2f6f9;
 }
 
-;
+.form {
+    background-color: #F2F6F9;
+    width: 1140px;
+    margin-left: calc(50% - 570px);
+    margin-right: calc(50% - 570px);
+}
+
+input,
+textarea {
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    border: none;
+}
+
+textarea {
+    border-radius: 10px;
+}
