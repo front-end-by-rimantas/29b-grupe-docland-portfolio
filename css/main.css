@@ -10,9 +10,7 @@
 /* components */
 
 @import './components/button.css';
-@import './components/texts.css'
-/* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
-=======
+@import './components/texts.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
@@ -20,11 +18,11 @@
     background-image: url(../images/banner_home4.png);
     background-repeat: no-repeat;
     background-position: center;
-    padding: 0;
 }
 
+;
 #header {
-    padding: 0;
+    padding: 0px;
 }
 
 
@@ -41,9 +39,9 @@
     cursor: pointer;
     font-weight: 700;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    ;
 }
 
+;
 .main-nav a:hover {
     color: #e83e8c;
 }
@@ -54,3 +52,5 @@
     width: 100%;
     background-color: #f2f6f9;
 }
+
+;
