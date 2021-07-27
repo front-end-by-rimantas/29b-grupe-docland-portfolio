@@ -79,6 +79,7 @@ align-items: center;
 }
 .icon:hover, .icon:active {
     background-color: aliceblue;
+    box-shadow: azure;
     
 
 }
