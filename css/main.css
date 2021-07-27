@@ -73,11 +73,12 @@ align-items: center;
 
 }
 
-.center_text {
+.icon {
     cursor: pointer;
 
 }
-.center_text:hover, .center_text:active {
+.icon:hover, .icon:active {
     background-color: aliceblue;
-    border: black;
+    
+
 }
