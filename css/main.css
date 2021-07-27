@@ -71,5 +71,14 @@ align-items: center;
 .client:hover, .client:active {
     height: 10%;
     width: 10%;
+
 }
 
+.center_text {
+    cursor: pointer;
+
+}
+.center_text:hover, .center_text:active {
+    background-color: aliceblue;
+    border: black;
+}
