@@ -1,0 +1,30 @@
+.price{
+    background-color: blue;
+}
+
+.free {
+    background-color: aliceblue;
+    border: none;
+    height: 489px;
+    width: 240px;
+}
+.price-text{
+text-align: center;
+line-height: 30px;
+font-size: 20px;
+color: #666d77;
+list-style-type: none;
+
+}
+
+.getStarted-2{
+    margin-top: 90px;
+}
+
+.getStarted{
+    margin-top: 90px;
+}
+
+.tittle-price {
+    color: #5612eb;
+}

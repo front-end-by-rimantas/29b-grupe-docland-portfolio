@@ -3,15 +3,15 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Daniels portfolio
+# Docland portfolio
 
-_29b group website project_
+ Website project - TeamWork
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is for educational porpuses only.
 
-Site published at: https://front-end-by-rimantas.github.io/29b-grupe-portfolio/
+Site published at: https://front-end-by-rimantas.github.io/29b-grupe-docland-portfolio/
 
-Design: http://www.innovationplans.com/idesign/daniels/particles.html
+Design: https://maantheme.com/xisaas/version-1/index-4.html
 
 ## Project features
 
@@ -25,6 +25,4 @@ Design: http://www.innovationplans.com/idesign/daniels/particles.html
 - CSS import
 - JS import-export
 
-## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
