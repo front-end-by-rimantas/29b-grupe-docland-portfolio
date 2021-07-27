@@ -60,34 +60,15 @@
 align-items: center;
 
 }
-.client-01{
-    margin-right: 40px;
-    padding-right: 55px;
-    margin-left: 120px;
-    cursor: pointer;
-    transition-duration: 1s;
-    color: black;
 
-}
-.client-02{
+.client{
     margin-right: 40px;
     padding-right: 55px;
     cursor: pointer;
-    
+}
 
+.client:hover, .client:active {
+    height: 10%;
+    width: 10%;
 }
-.client-03{    
-    margin-right: 40px;
-    padding-right: 55px;
-    cursor: pointer;
-}
-.client-04{
-    margin-right: 40px;
-    padding-right: 55px;
-    cursor: pointer;
-}
-.client-05{
-    margin-right: 40px;
-    padding-right: 55px;
-    cursor: pointer;
-}
+
