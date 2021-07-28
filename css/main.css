@@ -84,3 +84,11 @@ align-items: center;
     
 
 }
+
+
+/*price*/
+
+.price {
+    min-height: 80vh;
+    background-image: url(../images/price-bg-fore.png);
+}

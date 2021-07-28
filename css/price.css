@@ -1,5 +1,9 @@
 .price{
-    background-color: blue;
+    background-image: url(../images/price-bg-fore.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
 }
 
 .free {
